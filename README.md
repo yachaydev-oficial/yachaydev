@@ -2,10 +2,6 @@
   <img src="./yachaydev_portada.png" alt="YachayDev portada" width="100%">
 </p>
 
-<p align="center">
-  <img src="./yachaydev_logo.png" alt="YachayDev logo" width="160">
-</p>
-
 # 👋 YachayDev
 
 **YachayDev** es una plataforma educativa creada para aprender programación desde cero, de forma clara, honesta y paso a paso, documentando el proceso real de aprendizaje.
