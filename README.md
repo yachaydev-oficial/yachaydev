@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./portada.png" alt="YachayDev portada" width="100%">
+  <img src="./yachaydev_portada.png" alt="YachayDev portada" width="100%">
 </p>
 
 <p align="center">
-  <img src="./logo.png" alt="YachayDev logo" width="160">
+  <img src="./yachaydev_logo.png" alt="YachayDev logo" width="160">
 </p>
 
 # 👋 YachayDev
